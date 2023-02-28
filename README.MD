@@ -3,7 +3,7 @@
 
 `pip install -r requirements.txt`
 
-`python manage.py runserver`
+`python NacaMap\manage.py runserver`
 
 Browse to http://127.0.0.1:8000/map/
 
